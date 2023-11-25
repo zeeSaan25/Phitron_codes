@@ -12,7 +12,6 @@ int main(){
             s.replace(i,5," ");
         }
     }
-    
     cout<<s<<endl;
     return 0;
 }
